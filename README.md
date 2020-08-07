@@ -1,2 +1,4 @@
-# **Recurrent Neural Network (RNN)**
-##### In this repository, you will gain insights about the implementation of Recurrent Neural Network in real-world problems. And I have included some great Implemtations such as Trigger Word Detection, Machine Translation in this repository.
+# **Recurrent Neural Network(RNN)**
+- A recurrent neural network is a class of artificial neural networks where connections between nodes form a directed graph along a temporal sequence. This allows it to exhibit temporal dynamic behavior.
+
+
